@@ -1,0 +1,60 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# Others
+*.log
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vsmdi
+*.cache
+*.woff
+*.woff2
+*.orig
+
+# VS Code
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish profiles
+*.pubxml
+*.publishproj
+
+# Runtime files
+*.dll
+*.exe
+*.dbmdl
+*.bak
+*.ldf
+*.ndf
+*.sql
+
+# Config (nếu bạn không muốn commit)
+appsettings.Development.json
